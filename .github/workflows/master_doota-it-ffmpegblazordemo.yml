@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'doota-it-FFmpegBlazorDemo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_045474CFBE09424B9CBADC1D44657DED }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_04B86F6F401E4A689D9794842D5CE6C8 }}
           package: .
